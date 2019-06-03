@@ -36,7 +36,7 @@ CLASSIFIERS = [
     "Topic :: Utilities",
     "Development Status :: 5 - Production/Stable",
     "Framework :: IDLE",
-    "Natural Language :: English",
+    "Natural Language :: English"
 ]
 
 # GitHub URL:
@@ -46,7 +46,7 @@ MainURL = "https://github.com/RDIL/lowercase_booleans"
 URLs = \
     {
         "Bug Tracker": "https://github.com/RDIL/lowercase_booleans/issues",
-        "Source Code": "https://github.com/RDIL/lowercase_booleans,
+        "Source Code": "https://github.com/RDIL/lowercase_booleans
     }
 
 
