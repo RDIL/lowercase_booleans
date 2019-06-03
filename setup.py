@@ -43,11 +43,10 @@ CLASSIFIERS = [
 MainURL = "https://github.com/RDIL/lowercase_booleans"
 
 # Other Project URLs:
-URLs = \
-    {
-        "Bug Tracker": "https://github.com/RDIL/lowercase_booleans/issues",
-        "Source Code": "https://github.com/RDIL/lowercase_booleans
-    }
+URLs = {
+    "Bug Tracker": "https://github.com/RDIL/lowercase_booleans/issues",
+    "Source Code": "https://github.com/RDIL/lowercase_booleans,
+}
 
 
 setuptools.setup(
