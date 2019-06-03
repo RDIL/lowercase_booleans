@@ -30,7 +30,6 @@ CLASSIFIERS = [
     "Operating System :: POSIX :: Linux",
     "Operating System :: Other OS",
     "Intended Audience :: Developers",
-    "Intended Audience :: End Users/Desktop",
     "Topic :: Software Development :: Libraries",
     "Topic :: Software Development :: Libraries :: Python Modules",
     "Topic :: Utilities",
