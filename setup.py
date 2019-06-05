@@ -12,10 +12,7 @@ TAGS = [
 CLASSIFIERS = [
     "Programming Language :: Python",
     "Programming Language :: Python :: Implementation :: PyPy",
-    "Operating System :: Microsoft",
-    "Operating System :: MacOS",
-    "Operating System :: POSIX :: Linux",
-    "Operating System :: Other OS",
+    "Operating System :: OS Independent",
     "Intended Audience :: Developers",
     "Topic :: Software Development :: Libraries",
     "Topic :: Software Development :: Libraries :: Python Modules",
@@ -37,7 +34,7 @@ URLs = {
 
 setuptools.setup(
     name="lcbools",
-    version="1.0.1",
+    version="1.0.2",
     author="RDIL",
     author_email="me@rdil.rocks",
     description="lowercase booleans",
