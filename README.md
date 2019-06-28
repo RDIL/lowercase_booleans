@@ -1,5 +1,7 @@
 # lowercase booleans
 
+## DEPRECATED, SEE [THIS REPOSITORY](https://github.com/RDIL/lcpy)
+
 ## how to use
 
 ```python
