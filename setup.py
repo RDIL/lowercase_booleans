@@ -17,7 +17,7 @@ CLASSIFIERS = [
     "Topic :: Software Development :: Libraries",
     "Topic :: Software Development :: Libraries :: Python Modules",
     "Topic :: Utilities",
-    "Development Status :: 5 - Production/Stable",
+    "Development Status :: 7 - Inactive",
     "Framework :: IDLE",
     "Natural Language :: English"
 ]
@@ -34,10 +34,10 @@ URLs = {
 
 setuptools.setup(
     name="lcbools",
-    version="1.0.2",
-    author="RDIL",
+    version="1.0.3",
+    author="Reece Dunham",
     author_email="me@rdil.rocks",
-    description="lowercase booleans",
+    description="lowercase booleans - Deprecated",
     long_description=LONG_DESCRIPTION,
     long_description_content_type="text/markdown",
     url=MainURL,
